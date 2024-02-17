@@ -27,8 +27,8 @@ This project focuses on extracting and analyzing WhatsApp chat data, providing i
 
 
 # Observations
+## video link: https://www.youtube.com/watch?v=MNuo0yK-mi0&t=29s
 
-![Statistics](/Users/ravina/Pictures/Photos Library.photoslibrary/resources/renders/D/D9D314A9-A27B-418D-A5B8-1ECA6A723A36_1_201_a.jpeg)
 
 # Deployed Streamlit app on EC2 instance
 
