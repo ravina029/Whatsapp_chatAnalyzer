@@ -1,0 +1,13 @@
+prefix=/Users/ravina/Whatsapp_chatAnalyzer/whatapp_venv
+exec_prefix=/Users/ravina/Whatsapp_chatAnalyzer/whatapp_venv
+libdir=/Users/ravina/Whatsapp_chatAnalyzer/whatapp_venv/lib
+sharedlibdir=/Users/ravina/Whatsapp_chatAnalyzer/whatapp_venv/lib
+includedir=/Users/ravina/Whatsapp_chatAnalyzer/whatapp_venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
