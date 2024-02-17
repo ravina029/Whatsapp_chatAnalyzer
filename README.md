@@ -17,6 +17,10 @@ This project focuses on extracting and analyzing WhatsApp chat data, providing i
 
 4. **Sentiment Analysis:**
    - Utilize TextBlob for sentiment analysis of the chat messages.
+  
+# Observations
+## video link: https://www.youtube.com/watch?v=MNuo0yK-mi0&t=29s
+
 
 
 #Clone the repository:
@@ -24,10 +28,6 @@ This project focuses on extracting and analyzing WhatsApp chat data, providing i
    git clone https://github.com/yourusername/whatsapp-chat-analysis.git
    cd whatsapp-chat-analysis
    pip install -r requirements.txt
-
-
-# Observations
-## video link: https://www.youtube.com/watch?v=MNuo0yK-mi0&t=29s
 
 
 # Deployed Streamlit app on EC2 instance
