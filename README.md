@@ -23,27 +23,7 @@ This project focuses on extracting and analyzing WhatsApp chat data, providing i
    ```bash
    git clone https://github.com/yourusername/whatsapp-chat-analysis.git
    cd whatsapp-chat-analysis
-pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   pip install -r requirements.txt
 
 
 # Deployed Streamlit app on EC2 instance
