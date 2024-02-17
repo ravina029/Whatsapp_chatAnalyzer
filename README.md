@@ -26,6 +26,10 @@ This project focuses on extracting and analyzing WhatsApp chat data, providing i
    pip install -r requirements.txt
 
 
+# Observations
+
+![Statistics](/Users/ravina/Pictures/Photos Library.photoslibrary/resources/renders/D/D9D314A9-A27B-418D-A5B8-1ECA6A723A36_1_201_a.jpeg)
+
 # Deployed Streamlit app on EC2 instance
 
 ## 1. Login with your AWS console and launch an EC2 instance
