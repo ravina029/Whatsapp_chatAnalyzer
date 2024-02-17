@@ -1,4 +1,52 @@
-# How to Deploy Streamlit app on EC2 instance
+# WhatsApp Chat Analysis and Sentiment Analysis
+
+## Introduction
+
+This project focuses on extracting and analyzing WhatsApp chat data, providing insights into the chat trends, and performing sentiment analysis.
+
+## Features
+
+1. **Data Extraction:**
+   - Extract chat data from WhatsApp group or 1-1 conversations.
+
+2. **Data Cleaning:**
+   - Perform data cleaning steps to ensure accurate and meaningful analysis.
+
+3. **Weekly and Monthly Trends:**
+   - Analyze and visualize the weekly and monthly chat trends.
+
+4. **Sentiment Analysis:**
+   - Utilize TextBlob for sentiment analysis of the chat messages.
+
+
+#Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/whatsapp-chat-analysis.git
+   cd whatsapp-chat-analysis
+pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Deployed Streamlit app on EC2 instance
 
 ## 1. Login with your AWS console and launch an EC2 instance
 
